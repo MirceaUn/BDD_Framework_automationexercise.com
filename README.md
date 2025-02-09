@@ -1,15 +1,22 @@
-About the project
+About the project - The scope of this suite is to test some of the functionalities of various pages from the website: https://automationexercise.com/
 
-The test cases from this repository have been developed using the POM Design Pattern and the BDD Framework.
-The website where the tests were conducted is: https://automationexercise.com/
+Prerequisites
 
-They were built in Python using:
-- Selenium Module
-- Behave Module
-- Unittest Library
-- Cucumber Plugin
-- Gherkin Plugin
-- Ini Plugin
+PyCharm 2024.3.2
+
+The Python code for these tests was written using PyCharm 2024.3.2. The version of Python can be checked in cmd.exe using the command: "python --version". In my case, it is Python 3.12.
+
+Selenium Module 4.28.1
+
+Used to automate web browser interaction from Python
+
+Behave Module 1.2.7.dev6 & Cucumber 17.10.0 & Gherkin 243.22562.13 
+
+Tools used for creating the BDD Framework (Behaviour driven development) in Python
+
+Behave-html-formatter 0.9.10 & Ini 243.23654.177
+
+Made for the Behave Module in order to create HTML reports of the tests conducted
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
